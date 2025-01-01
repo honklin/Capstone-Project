@@ -1,7 +1,1 @@
-# Capstone Project
-
-&nbsp;
-
-## Table of Contents
-* [text](#link)
-
+# Injury Prevention Shoe Insert
